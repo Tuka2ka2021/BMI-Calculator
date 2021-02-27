@@ -1,0 +1,1 @@
+CLIENT_RESULT.textContent = `${FIRST_NAME.value} ${LAST_NAME.value} Your BMI value is ${BMI}. Thank you for using this app.`;
